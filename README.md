@@ -9,9 +9,8 @@ You can also mention what technologies or frameworks are used (e.g., Next.js, Ta
 
 | Role      | Name                |
 |------------|--------------------|
-| Mentor  | [Mentor Name]       |
-| Leader   | Nadon       |
-| Member  | [Member 1 Name]     |
-| Member  | [Member 2 Name]     |
-| Member  | [Member 3 Name]     |
-| Member  | [Member 4 Name]     |
+| Mentor  | Desmond    |
+| Leader  | Nadon     |
+| Member  | Lija       |
+| Member  | Sheryl     |
+| Member  | Thaddeus   |
